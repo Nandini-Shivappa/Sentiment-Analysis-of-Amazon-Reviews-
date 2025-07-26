@@ -1,19 +1,42 @@
-# Sentiment-Analysis-of-Amazon-Reviews-
+# Sentiment Analysis of Amazon Reviews
+This project performs sentiment analysis on Amazon product reviews using natural language processing techniques. The goal is to classify customer feedback as positive or negative to better understand user satisfaction and improve product/service offerings.This repository contains a Natural Language Processing (NLP) project for performing sentiment analysis on Amazon product reviews using the NLTK library. It is designed to run seamlessly in Google Colab and helps classify reviews as positive, negative, or neutral.
 
-🛍️ Sentiment Analysis of Amazon Reviews using NLTK
-This repository contains a Natural Language Processing (NLP) project for performing sentiment analysis on Amazon product reviews using the NLTK library. It is designed to run seamlessly in Google Colab and helps classify reviews as positive, negative, or neutral.
+## Project Objective
+ Clean and preprocess raw Amazon review data:
+ 
+- Extract, clean, and analyze Amazon reviews.
+- Apply sentiment classification using text analysis techniques.
+- Visualize sentiment distribution and key insights from review content.
 
-🌐 Live Notebook
-Run the notebook in Google Colab:(https://colab.research.google.com/drive/1joDgN0-GiekNz6EXR66L61OnSBaB3RFG?usp=sharing)
+## Key Features
+**Data Preprocessing:**
 
+- Removing stopwords, punctuation, and special characters
+- Lemmatization and lowercase conversion
 
-📌 Features
-🔍 Clean and preprocess raw Amazon review data
+**EDA (Exploratory Data Analysis):**
 
-🧹 Tokenize, remove stopwords, and perform stemming
+- Word frequency distributions
+- Word cloud visualizations for positive and negative reviews
+- Distribution of sentiment classes
 
-🧠 Use NLTK's VADER sentiment analyzer for scoring reviews
+**Sentiment Classification:**
 
-📊 Visualize sentiment distributions
+- Rule-based or ML/NLP-based model
+- Polarity tagging using TextBlob or VADER (if applicable)
 
-✅ Works entirely in Google Colab — no local setup required
+**Visualizations:**
+Visualize sentiment distributions
+- Bar plots, pie charts, and word clouds
+- Sentiment distribution charts
+
+## Dataset Overview
+**The dataset includes Amazon product reviews with:**
+
+- Review Text
+- Rating or sentiment label
+- Helpful votes, etc.
+
+## How to run 
+Google Collab file.(https://github.com/Nandini-Shivappa/Sentiment-Analysis-of-Amazon-Reviews-)
+  
