@@ -38,5 +38,5 @@ Visualize sentiment distributions
 - Helpful votes, etc.
 
 ## How to run 
-Google Collab file.(https://github.com/Nandini-Shivappa/Sentiment-Analysis-of-Amazon-Reviews-)
+Google Collab file.(https://colab.research.google.com/drive/1a_XuW3uAe-VGDVq3AbqPX5XZ3Qwxo6ZN?usp=sharing)
   
